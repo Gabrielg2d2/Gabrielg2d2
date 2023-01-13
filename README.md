@@ -2,7 +2,7 @@
 
 <p>Apaixonado por tecnologia, buscando diariamente as melhores práticas para estruturar um bom projeto</p>
 
-<h3>Principais Tecnologias no trabalho e estudo</h3>
+<h3>Principais Tecnologias e metodologias no trabalho e estudo</h3>
 
 <ul>
   <li>Javascript</li>
