@@ -5,13 +5,17 @@
 <h3>Principais Tecnologias no trabalho e estudo</h3>
 
 <ul>
+  <li>Javascript</li>
   <li>React</li>
-  <li>Next JS</li>
+  <li>TDD</li>
+  <li>DDD</li>
+  <li>SOLID</li>
   <li>Storybook</li>
   <li>Jest</li>
   <li>Styled-Components</li>
+  <li>Material-ui</li>
   <li>Node</li>
 </ul>
 
-<h3>Parafraseando (Diego fernandes)</h3>
+
 <p>"Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que os fracassos talentosos. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos. "</p>
