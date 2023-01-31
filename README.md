@@ -14,6 +14,7 @@
   <li>Jest</li>
   <li>Styled-Components</li>
   <li>Material-ui</li>
+  <li>Tailwind</li>
   <li>Node</li>
 </ul>
 
