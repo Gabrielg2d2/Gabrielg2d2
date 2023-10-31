@@ -7,6 +7,7 @@
 <ul>
   <li>Javascript</li>
   <li>React</li>
+  <li>React-Native</li>
   <li>TDD</li>
   <li>DDD</li>
   <li>SOLID</li>
