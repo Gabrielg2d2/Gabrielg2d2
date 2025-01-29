@@ -11,6 +11,7 @@ Olá, sou Gabriel&nbsp;&nbsp;🔭
   <li>React</li>
   <li>React-Native</li>
   <li>BFF (backend for frontend)</li>
+  <li>Firebase Analytics</li>
   <li>TDD</li>
   <li>DDD</li>
   <li>SOLID</li>
